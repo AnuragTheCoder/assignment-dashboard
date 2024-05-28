@@ -21,14 +21,7 @@ const Navbar = () => {
             <hr />
             <div className="secondNav mt-2 p-2">
                 <div className="items flex justify-evenly items-center  ">
-                    <div class="center-box">
-                        {/* <!-- START Box --> */}
-                        <div class="animated-border-box-glow"></div>
-                        <div class="animated-border-box">
-                            {/* <!-- Inside the Box --> */}
-                        </div>
-                        {/* <!-- END --> */}
-                    </div>
+
                     <span className='kitty'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="mr-[10px] mb-[2px] inline bi bi-microsoft" viewBox="0 0 16 16" ><path d="M7.462 0H0v7.19h7.462V0zM16 0H8.538v7.19H16V0zM7.462 8.211H0V16h7.462V8.211zm8.538 0H8.538V16H16V8.211z" ></path></svg>
                         LeaderBoard
